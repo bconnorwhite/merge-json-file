@@ -1,7 +1,7 @@
 {
   "name": "merge-json-file",
   "version": "1.0.0",
-  "description": "Read a JSON file, merge with an object, and write",
+  "description": "Merge a JSON file with a JSON object",
   "license": "MIT",
   "author": {
     "name": "Connor White",

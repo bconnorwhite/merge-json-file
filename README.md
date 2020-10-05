@@ -19,7 +19,7 @@
 
 <br />
 
-> Read a JSON file, merge with an object, and write.
+> Merge a JSON file with a JSON object.
 
 ## Installation
 
